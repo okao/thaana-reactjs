@@ -2,7 +2,4 @@
 
 ```useThaanaKeyboard('.thaana-input');```
 
-<input
-  className="thaana-input"
-  inputMode="text"
-/>
+```<input className="thaana-input" inputMode="text" />```
